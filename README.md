@@ -1,3 +1,3 @@
 # images
 
-- 此仓库为图床
+- images
